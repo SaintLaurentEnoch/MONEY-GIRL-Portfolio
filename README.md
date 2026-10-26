@@ -26,6 +26,39 @@ flowchart LR
 
 This is a **conceptual architecture** rather than a claim that every component is presently operational.
 
+
+## Platform Screenshots
+
+### 1. Advanced Trading Terminal
+Interactive trading interface for viewing market charts, monitoring financial instruments, and supporting technical market analysis.
+
+![Advanced Trading Terminal](screenshots/advanced-terminal.jpg)
+
+### 2. AI Brain & Knowledge Evidence
+Knowledge and decision-support interface designed to provide visibility into the trading system's analysis and supporting evidence.
+
+![Brain Evidence](screenshots/brain-evidence.jpg)
+
+### 3. Control Room
+Centralised configuration dashboard for managing trading parameters, execution controls, risk settings, and operational preferences.
+
+![Control Room](screenshots/control-room.jpg)
+
+### 4. Live Market Scanner
+Market monitoring interface designed to display symbol scanning, analysis activity, and trading signals.
+
+![Live Market Scanner](screenshots/live-scanner.jpg)
+
+### 5. System Monitoring Dashboard
+System status interface for monitoring connectivity, backend services, MetaTrader 5 integration, and operational health.
+
+![Systems Dashboard](screenshots/systems-page.jpg)
+
+### 6. Trading Center
+Main trading dashboard for reviewing market information, positions, charts, and trade-related activity.
+
+![Trading Center](screenshots/trading-center.jpg)
+
 ## Engineering areas
 
 | Area | Technical focus |
